@@ -2,7 +2,6 @@
 Проект получает данные о землетрясениях через API, отправляет в Data Lake (s3)
 # Data Governance
 <img width="516" height="517" alt="image" src="https://github.com/user-attachments/assets/fe688696-b88d-4e33-bc50-2d19d3f9d61b" />
-#Data Srhitect
 
 ### 1. Data Architecture
 ```mermaid
